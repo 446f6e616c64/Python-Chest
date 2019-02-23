@@ -4,6 +4,8 @@
 This script is designed to install MySQL, Log into the newly created database,
 and then secure it automatically using the same MySQL commands used by the
 mysql_secure_installation command.
+@446f6e616c64 - 23FEB2019
+'''
 
 import os
 
