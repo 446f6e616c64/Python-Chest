@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Script that Generates unique User Names
+# Script that Generates unique Names and usernames
 
 import random
 
